@@ -1,0 +1,111 @@
+body{
+     font-family: 'Montserrat', sans-serif;
+     text-align: center;
+}
+
+.nav-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+  margin-top:;
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+   
+  
+  
+}
+
+.nav-bar li {
+  float: left;
+}
+
+ .nav-bar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+.nav-bar li a:hover {
+  background-color:grey;
+}
+
+.bg-img img{
+	width: 120%;
+    background-position: center;
+    background-size: cover;
+    right: 0;
+    margin: auto;
+    left: 0;
+    display: flex;
+    margin-left: -10px;
+ }
+
+ .band{
+ 	padding: 45px 0px;
+ }
+
+ h1{
+ 	font-size: 30px;
+ 	letter-spacing: 10px;
+ }
+ .band-p{
+ 	font-style: normal;
+ 	color: black;
+ 	font-weight: bold;
+ 	display: inline-flex;
+ 	width: 75%
+ }
+
+ .band-meet p{
+   font-style: normal;
+ 	color: black;
+ 	font-weight: bold;
+ 	display: inline-block;
+ 	width: 33%;
+ }
+.band-meet  img{
+	display: flex;
+	padding: 16px 34px;
+	border-color: black;
+	margin: auto;
+	width: 50%;
+}
+
+.band-tour{
+	background-color: black;
+	padding: 48px;
+}
+
+
+h2{
+	color: white;
+	font-style: normal;
+	font-size: 48px;
+	letter-spacing: 4px;
+}
+
+.band-tour-text p{
+ color: white;
+font-style: italic;
+
+}
+
+.band-tour-text ul{
+padding: 45px 32px
+}
+.band-tour-text li {
+	color: white;
+   display: flex;
+   font-style: normal;
+   margin: auto;
+   top: 10px;
+
+} 
+
